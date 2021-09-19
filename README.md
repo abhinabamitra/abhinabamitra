@@ -24,10 +24,19 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinabamitra" alt="abhinabamitra" /> </p>
 
 ## ⚡ Technologies
-- Security Analyst skillset not limited to theoritical knowledge.
-- Penetration Testing tools like **Metasploit, Wireshark, Nmap, SQLmap, Nessus, BurpSuite, Basic OWASP Attacks, SNORT IDS, recon-ng, etc.**
+- Certified Security Analyst skillset not limited to theoritical knowledge.
+- Penetration Testing tools like **Metasploit, Wireshark, Nmap, SQLmap, Nessus, BurpSuite, OWASP Attacks, SNORT IDS, recon-ng, etc.**
 - Front-end development using **HTML, CSS, Bootstrap, JavaScript**
 - Competitive coding in **C++** and **Python3**
 - Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, OpenCV**
 
+## 💻 Projects
+
+- [Decentralized DNS](https://eth-dns.netlify.app/)
+- [Project Portal](https://joshijai2.github.io/ProjectPortal/)
+- [Used car price prediction using XGBoost and LightGBM](https://github.com/abhinabamitra/Used-Car-Price-Prediction-XGBoost-and-LightGBM)
+- [Hierarchical Classification of Android Malware](https://github.com/joshijai2/EDA-Apple-App-Store-Games)
+
 ![Abhi github stats](https://github-readme-stats.vercel.app/api?username=abhinabamitra&hide=["issues"]&show_icons=true)
+
+# Thanks a lot! Feel free to contact on my website [abhinaba.codes](https://abhinabamitra.github.io/Portfolio/) and drop any suggestions
