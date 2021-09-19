@@ -1,4 +1,4 @@
-### print("Hello World!") 👋
+### "Hello World!" 👋
 
 <img align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" alt="github" width="30%" height="30%">
 
@@ -6,12 +6,13 @@
 
 Upcoming SDE @ Docquity
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinabamitra19/)](https://www.linkedin.com/in/abhinabamitra19/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinabamitra19/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinabamitra@gmail.com)](mailto:abhinabamtra19@gmail.com)
 
-[![Github Badge](https://img.shields.io/badge/-Github-white/style=flat-square&logo=Github&logoColor=black&link=https://github.com/abhinabamitra)](https://github.com/abhinabamitra)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinabamitra)
 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_loud_introvert_/)
 <h3 align="center">I am an enthusiastic learner who wants to explore many technical skills.</h3>
 
 I am Abhinaba (Shivam) from Siliguri, West Bengal and currently pursuing my B.Tech in Information Technology (IT) from Vellore Institute of Technology, Vellore 🏫.
