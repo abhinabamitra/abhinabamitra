@@ -1,6 +1,6 @@
 ### "Hello World!" 👋
 
-<img align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" alt="github" width="30%" height="30%">
+<img align="right" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" alt="github" width="50%" height="40%">
 
 [Abhinaba Mitra](https://abhinabamitra.github.io/Portfolio/)
 
@@ -8,7 +8,7 @@ Upcoming SDE @ Docquity
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinabamitra19/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinabamitra@gmail.com)](mailto:abhinabamtra19@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinabamtra19@gmail.com)
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinabamitra)
 
