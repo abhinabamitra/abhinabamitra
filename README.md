@@ -12,7 +12,6 @@ Upcoming SDE @ Docquity
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinabamitra)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_loud_introvert_/)
 <h3 align="center">I am an enthusiastic learner who wants to explore many technical skills.</h3>
 
 I am Abhinaba (Shivam) from Siliguri, West Bengal and currently pursuing my B.Tech in Information Technology (IT) from Vellore Institute of Technology, Vellore 🏫.
@@ -23,3 +22,12 @@ Eager to be challenged in order to provide simple and efficient solutions.
 Enthusiastic to  learn new technologies as the need arises and improve my skills.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinabamitra" alt="abhinabamitra" /> </p>
+
+## ⚡ Technologies
+- Security Analyst skillset not limited to theoritical knowledge.
+- Penetration Testing tools like **Metasploit, Wireshark, Nmap, SQLmap, Nessus, BurpSuite, Basic OWASP Attacks, SNORT IDS, recon-ng, etc.**
+- Front-end development using **HTML, CSS, Bootstrap, JavaScript**
+- Competitive coding in **C++** and **Python3**
+- Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, OpenCV**
+
+![Abhi github stats](https://github-readme-stats.vercel.app/api?username=abhinabamitra&hide=["issues"]&show_icons=true)
