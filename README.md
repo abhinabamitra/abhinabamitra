@@ -12,7 +12,7 @@ Upcoming SDE @ Docquity
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinabamitra)
 
-
+<br>
 <h3 align="center">I am an enthusiastic learner who wants to explore many technical skills.</h3>
 
 I am Abhinaba (Shivam) from Siliguri, West Bengal and currently pursuing my B.Tech in Information Technology (IT) from Vellore Institute of Technology, Vellore 🏫.
