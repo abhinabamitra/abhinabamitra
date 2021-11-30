@@ -27,7 +27,7 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 ## ⚡ Technologies
 - Certified Security Analyst skillset not limited to theoritical knowledge.
 - Penetration Testing tools like **Metasploit, Wireshark, Nmap, SQLmap, Nessus, BurpSuite, OWASP Attacks, SNORT IDS, recon-ng, etc.**
-- Front-end development using **HTML, CSS, Bootstrap, JavaScript**
+- Front-end development using **HTML, CSS, Bootstrap, JavaScript, NodeJS (relatively new to this)**
 - Competitive coding in **C++** and **Python3**
 - Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, OpenCV**
 
