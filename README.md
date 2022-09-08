@@ -15,7 +15,7 @@ SDE @ Docquity
 <br>
 <h3 align="center">I am an enthusiastic learner who wants to explore many technical skills.</h3>
 
-I am Abhinaba (Shivam) from Siliguri, West Bengal and currently pursuing my B.Tech in Information Technology (IT) from Vellore Institute of Technology, Vellore 🏫.
+I am Abhinaba (Shivam) from Siliguri, West Bengal and currently graduated with a B.Tech degree in Information Technology (IT) from Vellore Institute of Technology, Vellore 🏫. I live in Gurgaon working in a healthcare-based startup known as Docquity.
 
 Being interested in computers since a young age, it feels wonderful to solve problems with the tools that just fit your hands.
 Made significant progress from a novice to self-learning new and  interesting technologies and implementing them in projects.
